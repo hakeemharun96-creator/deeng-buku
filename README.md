@@ -1,2 +1,2 @@
-# deeng-buku
+# Buku
 Buku (DEENG): rak kitab PDF offline. Muat turun: Releases > Buku.apk
